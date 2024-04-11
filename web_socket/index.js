@@ -11,7 +11,6 @@ const server = app.listen(port, () => {
 
 const wss = new WebSocketServer({ server });
 
-const aks = 4;
 wss.on("connection", (ws) => {
   ws.on("message", (data) => {
     console.log("Data From Client:", data.toString()); // doubt to string
