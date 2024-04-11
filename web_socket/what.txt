@@ -9,3 +9,7 @@ npm install ws
 node index.js
 
 https://hoppscotch.io/realtime/websocket
+
+https://javascript.info/websocket
+just like fecth api for http 
+for websocket we have websocket broswer api
