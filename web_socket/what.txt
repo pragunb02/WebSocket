@@ -1,0 +1,11 @@
+npm init
+
+npm install
+
+npm install express
+
+npm install ws
+
+node index.js
+
+https://hoppscotch.io/realtime/websocket
