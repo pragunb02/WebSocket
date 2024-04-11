@@ -13,3 +13,6 @@ https://hoppscotch.io/realtime/websocket
 https://javascript.info/websocket
 just like fecth api for http 
 for websocket we have websocket broswer api
+
+https://www.youtube.com/watch?v=favi7avxIag
+home-work at 15:00
